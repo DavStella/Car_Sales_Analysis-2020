@@ -43,7 +43,8 @@ Excel file was downloaded after which extracted into a Power BI query for cleani
 ## Data Transformation/Cleaning:
 Data was efficiently cleaned and transformed with the Power Query Editor of Power BI. 
 Some of the applied steps included:
-![](transformed_dataset.png)
+
+![](transformed_data.png)
 
 - Promote headers
 - Duplicated my table
