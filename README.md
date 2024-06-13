@@ -58,7 +58,7 @@ Some of the applied steps included:
 - Excluded the duplicated table before loading to Power BI desktop using “close and Apply”
 
 ## Data Analysis and Visuals(What Happened?)
-![](Dashboard_analysis.png)
+![](Dashboard analysis.png)
 
 ## Sales Performance Analysis:
 - sales performance throughout 2020 =1,491
