@@ -124,8 +124,7 @@ The top 5 Car Brands From the dashboard generated approximately 90% of the total
 ### Date Insight
 ![](MSTinsight.png)
 
-we could see the effect of the number of months on the Sales. For example, Volkswagen was sold only in January, hence the low number of sales, unlike the top brands which were sold throughout the year
-
+We could see the effect of the number of months on the Sales. For example, Ekiti sold for just in three(3) months, hence the low number of sales, unlike Lagos which had sales through out the year running from January - December.
 ## Conclusions & Recommendations
 ###	Optimize Branch Locations:
 - Prioritize branches in high-performance areas like Lagos and consider downsizing in less profitable Location such as Ekiti.
