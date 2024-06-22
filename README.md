@@ -6,13 +6,12 @@ They are interested in their sales performance for January - December 2020.
 
 ### Skills/Concepts Applied: 
 The following features were incorporated as well as skills:
-- Extract Load and Transformed (EDA)
-- Descriptive Statistics
+- Data Analysis(Exploratory, Descriptive, Precriptive)
 -  ETL using Power Query
--  Data Models (Facts and Dimension Tables),
--  Created Measures using , DAX, Quick Measures, DistinctCount, Sumif, Countif, Unique, 
-   Filter, Count, Custom Column etc,
--  Pivot Tables, Charts, Dashboards (Findings and Insights)
+-  Data Modelling (Facts and Dimension Tables),
+-  Created Measures using , DAX, Quick Measures (DistinctCount, Sumif, Countif, Unique, 
+   Filter, Count, Custom Column etc)
+-  Pivot Tables, Charts, Dashboards/Visualisation (Findings and Insights)
 -   Presentation and Effective Communication.
 
 ## Problem Statement
