@@ -4,7 +4,7 @@
 This data set is about Zion car retailer company with branches across six states in Nigeria charges us with the task of providing insightful business analysis
 They are interested in their sales performance for the year 2020. 
 
-### Skills//Concepts Applied: 
+### Skills/Concepts Applied: 
 The following features were incorporated as well as skills:
 - Extract Load and Transformed (EDA)
 - Descriptive Statistics
@@ -45,7 +45,7 @@ Excel file was downloaded after which extracted into a Power BI query for cleani
 ![](raw_data.png)
 
 ## Data Transformation/Cleaning:
-Data was efficiently cleaned and transformed with the Power Query Editor of Power BI. 
+Data was efficiently cleaned and transformed with the Power Query Editor, Excel and Power Bi. 
 Some of the applied steps included:
 
 ![](transformed_data.png)
@@ -61,8 +61,9 @@ Some of the applied steps included:
 - Choose the needed columns for the required analysis
 - Excluded the duplicated table before loading to Power BI desktop using “close and Apply”
 
-## Data modelling
-![]()
+## Data Modelling
+Though the dataset was a single table, which was normalised in other to get accurate and reliable result.
+![](Zinoxmodel.png)
 
 The Model is a star schema with 5 dimensions and 1 fact table joined with a one-to-many relationship.
 
@@ -76,6 +77,7 @@ The Model is a star schema with 5 dimensions and 1 fact table joined with a one-
 
 ## Sales Performance Analysis:
 - sales performance throughout 2020 =1,491
+- Average growth rate within the period  = 4.27%
 - The peak sales period is November having a total of 200 monthly sales.
 - However, the highest growth rate(%) was recorded in June having an drastic increase from 90 to 140 the following month.
 
@@ -84,18 +86,30 @@ The Model is a star schema with 5 dimensions and 1 fact table joined with a one-
 - Lagos has the highest number of sales = 361 while Ekiti the lowest =17. 
 - Average age in this analysis = 34, with approximately 51% female.
 
-  ![](Location_analysis.png)
+  ![](Locationinsight.png)
 
-## Geographical Analysis:
-- Giving Lagos with the highest sales, below is the overall performance.
+ ## Geographical Analysis:
+- Giving **Lagos** with the highest sales, below is the overall performance.
 - Total sales =361
 - Highest monthly Sale= November (40)
-- Average age 35, Majorly Female gender between the ages 31-41
-- Preferred car Brand = Ford followed by Toyota
+- Average age 35, Majorly Female gender between the ages 26-35
+- Preferred car Brand = Ford followed by Toyota ![](Lagosinsight.png)
 
+  while **Ekiti** had the lowest sale🔰
+  
+  ![](Ekitiinsight.png)
+
+  However, **Ondo** has the highest growth rate
+  
+  ![](Ondoinsight.png)🤯
 
 ## Why it happened? (Why the large difference, this brings us to insights).
 ### Product Insights
+
+![](Topcar.png)
+
+![](Leastcar.png)
+
 ![](product_analysis.png)
 
 The top 5 Car Brands From the dashboard generated approximately 90% of the total Sales transactions while the rest generated about 10%.
@@ -106,23 +120,36 @@ The top 5 Car Brands From the dashboard generated approximately 90% of the total
 -	The top 5 Brands have more than 1 Model.
 -	This shows that there is a strong correlation between the Sales and Brand Model.
 -	The more the models are rowed out, the tendency for more Sales/Patronage
-
-### Location Insight
-![](Brand_Transaction_Location.png)
-- Just like the above observation, it is evident also that the more, the tendency of more sales. Eg. Ford had a total of 368 Sales , having 7 locations while Volswagen had just 3 sales having 2 locations.
+- Just like the above observation, it is evident also that the more the models in a location, the tendency of more sales generated. 
 
 ### Date Insight
-![](Matrix_table.png)
+![](MSTinsight.png)
+
 we could see the effect of the number of months on the Sales. For example, Volkswagen was sold only in January, hence the low number of sales, unlike the top brands which were sold throughout the year
 
 ## Conclusions & Recommendations
-- All branches should endeavor to have the top 5 brands(Reason been that 90% of sales where from it)
-- An increase in the models in all the branches having at least 3 models which may attract more customers.
-- Brands made available all year round
+###	Optimize Branch Locations:
+- Prioritize branches in high-performance areas like Lagos and consider downsizing in less profitable Location such as Ekiti.
+  
+### Strategic Resource Distribution:
+- Ensure the availability of top brands (Ford, Toyota, Honda, Nissan, Hyundai) and at least three models per brand in every branch.
+All branches should endeavor to have the top 5 brands(Reason been that 90% of sales where from it)as this may attract more customers.
+- Also these Brands should be  made available all year round.
+  
+### Target Key Demographics:
+- Focus marketing and sales efforts on the 26-35 age group, which shows the highest sales volume.
+
+### Seasonal Sales Planning:
+- Investigate the sales dip in **June** and **December** and capitalize on the surge in **July** and **August** to stabilize sales throughout the year.
+
+### Model-Specific Marketing:
+- Highlight the top-selling models (Explorer, Accord, Corolla) in promotional activities to boost sales.
 - Promotional measures such as dicounts and bonaza could be introduced to bottom Brand, location in orther to boast Sales
 - However, further research and investigation could be carried out to ascertain if these brands' models will be viable.
 
 ![](tank_you_image.jpg)
 
+🛂iboraboghenestella@gmail.com 
 
-  
+🗄️http://www.linkedin.com/in/stella-ibor-2694ba241
+
