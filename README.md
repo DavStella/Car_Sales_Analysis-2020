@@ -1,8 +1,8 @@
 # Zion Car_Sales_Analysis-2020
 ![](cars.jpg)
 ## Introduction
-This data set is about Zion car retailer company with branches across six states in Nigeria charges us with the task of providing insightful business analysis
-They are interested in their sales performance for the year 2020. 
+This data set is about Zion car retailer company with branches across six states in Nigeria charges us with the task of providing insightful business analysis.
+They are interested in their sales performance for January - December 2020. 
 
 ### Skills/Concepts Applied: 
 The following features were incorporated as well as skills:
@@ -12,7 +12,6 @@ The following features were incorporated as well as skills:
 -  Data Models (Facts and Dimension Tables),
 -  Created Measures using , DAX, Quick Measures, DistinctCount, Sumif, Countif, Unique, 
    Filter, Count, Custom Column etc,
--  Data Modelling
 -  Pivot Tables, Charts, Dashboards (Findings and Insights)
 -   Presentation and Effective Communication.
 
@@ -91,6 +90,7 @@ The Model is a star schema with 5 dimensions and 1 fact table joined with a one-
  ## Geographical Analysis:
 - Giving **Lagos** with the highest sales, below is the overall performance.
 - Total sales =361
+- Growth rate of 3.74%
 - Highest monthly Sale= November (40)
 - Average age 35, Majorly Female gender between the ages 26-35
 - Preferred car Brand = Ford followed by Toyota ![](Lagosinsight.png)
@@ -99,7 +99,7 @@ The Model is a star schema with 5 dimensions and 1 fact table joined with a one-
   
   ![](Ekitiinsight.png)
 
-  However, **Ondo** has the highest growth rate
+  However, **Ondo** has the highest growth rate of 5.88% 
   
   ![](Ondoinsight.png)🤯
 
