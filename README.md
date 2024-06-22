@@ -4,13 +4,17 @@
 This data set is about Zion car retailer company with branches across six states in Nigeria charges us with the task of providing insightful business analysis
 They are interested in their sales performance for the year 2020. 
 
-### Power BI Concepts Applied: 
-DAX Concepts: Calculated Column, 
-- Custom Column,
-- Quick Measures,
-- Filters,
-- Tooltips, and
-- Slicer
+### Skills//Concepts Applied: 
+The following features were incorporated as well as skills:
+- Extract Load and Transformed (EDA)
+- Descriptive Statistics
+-  ETL using Power Query
+-  Data Models (Facts and Dimension Tables),
+-  Created Measures using , DAX, Quick Measures, DistinctCount, Sumif, Countif, Unique, 
+   Filter, Count, Custom Column etc,
+-  Data Modelling
+-  Pivot Tables, Charts, Dashboards (Findings and Insights)
+-   Presentation and Effective Communication.
 
 ## Problem Statement
 1.	Sales Performance Analysis: -Dive deep into our sales performance throughout 2020.
@@ -57,28 +61,38 @@ Some of the applied steps included:
 - Choose the needed columns for the required analysis
 - Excluded the duplicated table before loading to Power BI desktop using “close and Apply”
 
+## Data modelling
+![]()
+
+The Model is a star schema with 5 dimensions and 1 fact table joined with a one-to-many relationship.
+
+## Visualisation
+- Excel link here: https://bit.ly/45IBcDn
+
+- Power Bi link here:https://app.powerbi.com/groups/me/reports/d9c74cdf-3d72-43cb-be5c-f479890f6d0e/ReportSection?redirectedFromSignup=1&experience=power-bi
+
 ## Data Analysis and Visuals(What Happened?)
-![](Dashboard analysis.png)
+![](dashboard.png)
 
 ## Sales Performance Analysis:
 - sales performance throughout 2020 =1,491
-- The peak sales period is November having 200 monthly sales.
-- However, the highest growth rate(%) was in June.
-- There was a drastic increase from 90 to 140 the following month.
+- The peak sales period is November having a total of 200 monthly sales.
+- However, the highest growth rate(%) was recorded in June having an drastic increase from 90 to 140 the following month.
 
   
-## Customer Demographics:
-- Lagos has the highest number of customers = 361. 
+## Sales Demographics:
+- Lagos has the highest number of sales = 361 while Ekiti the lowest =17. 
 - Average age in this analysis = 34, with approximately 51% female.
 
   ![](Location_analysis.png)
 
 ## Geographical Analysis:
-- Having seen that Lagos has the highest sales, below is the overall performance.
+- Giving Lagos with the highest sales, below is the overall performance.
 - Total sales =361
 - Highest monthly Sale= November (40)
 - Average age 35, Majorly Female gender between the ages 31-41
 - Preferred car Brand = Ford followed by Toyota
+
 
 ## Why it happened? (Why the large difference, this brings us to insights).
 ### Product Insights
