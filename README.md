@@ -1,7 +1,7 @@
-# Zion Car_Sales_Analysis-2020
+# Zinox Car_Sales_Analysis-2020
 ![](cars.jpg)
 ## Introduction
-This data set is about Zion car retailer company with branches across six states in Nigeria charges us with the task of providing insightful business analysis.
+This data set is about Zinox car retailer company with branches across six states in Nigeria charges us with the task of providing insightful business analysis.
 They are interested in their sales performance for January - December 2020. 
 
 ### Skills/Concepts Applied: 
@@ -131,7 +131,7 @@ We could see the effect of the number of months on the Sales. For example, Ekiti
   
 ### Strategic Resource Distribution:
 - Ensure the availability of top brands (Ford, Toyota, Honda, Nissan, Hyundai) and at least three models per brand in every branch.
-All branches should endeavor to have the top 5 brands(Reason been that 90% of sales where from it)as this may attract more customers.
+All locations should endeavor to have the top 5 brands(Reason been that 90% of sales where from it)as this may attract more customers.
 - Also these Brands should be  made available all year round.
   
 ### Target Key Demographics:
@@ -142,7 +142,7 @@ All branches should endeavor to have the top 5 brands(Reason been that 90% of sa
 
 ### Model-Specific Marketing:
 - Highlight the top-selling models (Explorer, Accord, Corolla) in promotional activities to boost sales.
-- Promotional measures such as dicounts and bonaza could be introduced to bottom Brand, location in orther to boast Sales
+- Promotional measures such as dicounts and bonaza could be introduced to bottom Brand, location in other to boast Sales
 - However, further research and investigation could be carried out to ascertain if these brands' models will be viable.
 
 ![](tank_you_image.jpg)
